@@ -1,4 +1,4 @@
-## Lagacy Deeplearning 네트워크, Transformer 이전 모델들
+## Legacy Deeplearning 네트워크, Transformer 이전 모델들
 
 딥러닝의 역사는 인간 두뇌를 모방하려는 시도에서 시작되었으며, Transformer 아키텍처가 등장하기 전까지 다양한 신경망 모델들이 개발되었습니다. 이러한 모델들은 각각 고유한 특성과 한계를 가지고 있었습니다.
 
