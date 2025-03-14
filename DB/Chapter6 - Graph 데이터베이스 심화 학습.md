@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# 
-
----
-
 # OJT 교육 문서: Graph 데이터베이스 심화 학습
 
 ## **개요**
