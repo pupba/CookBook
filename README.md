@@ -7,3 +7,4 @@
 - Python
 - Git
 - AI
+- DB
